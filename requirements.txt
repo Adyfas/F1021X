@@ -1,8 +1,1 @@
-ssl
-socket
-subprocess
-urllib3
-os
-sys
-time
-requests
+intinya si gini ya bro, sabarrr
